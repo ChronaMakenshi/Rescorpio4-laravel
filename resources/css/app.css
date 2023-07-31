@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#returnToHeader {
+    bottom: 2.5rem;
+    transition: .3s;
+}
+
+
+@media screen and (max-width: 1416px) {
+    .g-recaptcha {
+        transform: scale(0.77);
+        transform-origin: 0 0;
+    }
+}
+
+@media screen and (max-width: 1416px) {
+    .g-recaptcha {
+        transform: scale(0.61);
+        transform-origin: 0 0;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .g-recaptcha {
+        transform: scale(0.90);
+        transform-origin: 0 0;
+    }
+}
+
+@media screen and (max-width: 365px) {
+    .g-recaptcha {
+        transform: scale(0.61);
+        transform-origin: 0 0;
+    }
+}
+
