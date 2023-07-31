@@ -7,9 +7,9 @@
         </span>
         <span class="text-sm text-white 4xl:text-xl sm:text-center">
             {{ __('redscorpio4.footer.created') }}
-            <a class="font-medium text-blue-600 dark:text-blue-500 text-sm hover:underline" href="https://mestdagh-christophe.ovh/">Christophe Mestdagh</a><br>
+            <a class="font-medium text-blue-600 dark:text-blue-500 text-sm hover:underline" href="https://mestdagh-christophe.ovh/" target="_blank">Christophe Mestdagh</a><br>
             {{ __('redscorpio4.footer.design') }}
-            <a class="font-medium text-blue-600 dark:text-blue-500 text-sm hover:underline" href="https://www.alois-patoor.ovh/">Aloïs Patoor</a>
+            <a class="font-medium text-blue-600 dark:text-blue-500 text-sm hover:underline" href="https://www.alois-patoor.ovh/" target="_blank">Aloïs Patoor</a>
         </span>
 
         <ul class="flex flex-wrap items-center mt-3 text-sm font-medium text-white sm:mt-0">
