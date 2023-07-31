@@ -18,7 +18,7 @@
 <x-body-part.footer></x-body-part.footer>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.6/flowbite.min.js"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-46212931-1" defer></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=" defer></script>
 <script async >
     window.dataLayer = window.dataLayer || [];
 
@@ -28,7 +28,7 @@
 
     gtag('js', new Date());
 
-    gtag('config', 'UA-46212931-1');
+    gtag('config', '');
 </script>
 </body>
 </html>
